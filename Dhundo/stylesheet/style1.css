@@ -1,0 +1,36 @@
+#ful{
+    background: #ffb6c1;
+    
+}
+.row{
+      color: #fff;
+      background: #222;
+}
+.search-box{
+    font-size: 17px;
+    font-family: cursive;
+    margin-top: 1.5%;
+    padding-top: 10px;
+    color: #111;
+}
+.btn{
+    margin: 0% 0% 1% 0%;
+    padding-top: 8px;
+    padding-bottom: 2px;
+    color: #111;
+    background: #FF8C00;
+    font-weight: bolder;
+}
+.hd-results{
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 15px;
+}
+
+
+body{
+    background: #fff;
+}
+.container{
+    background: #FFA07A;
+}
