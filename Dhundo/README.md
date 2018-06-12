@@ -1,6 +1,6 @@
 # Dhundo
 
-It is a simple search engine in php designed by [Shivam srivastava](https://er1shivam.github.io).
+It is a simple search engine in php designed by [Rakesh Kumar Tiwary](https://github.com/Rakesh9998).
 
 This is basically my first project in PHP :smile:
 
